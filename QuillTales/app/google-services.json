@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25934389172",
+    "project_id": "quill-tales-87a8c",
+    "storage_bucket": "quill-tales-87a8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25934389172:android:551769bc3bfdf3ea20dce1",
+        "android_client_info": {
+          "package_name": "com.example.quilltales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVvz12cJD9sdX85yxDnai_xy6LSM8XRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

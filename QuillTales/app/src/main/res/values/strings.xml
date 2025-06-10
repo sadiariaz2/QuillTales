@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quill Tales</string>
+    <string name="register_label">Register</string>
+    <string name="login_label">Login</string>
+
+    <string name="story_titles">
+        1. The Brave Knight (Preview)\n
+        2. The Lost Kingdom (Preview)\n
+        3. The Magic Forest (Preview)
+    </string>
+
+    <string name="full_stories">
+        The Brave Knight\n\n
+        Once upon a time, a brave knight named Arthur protected the kingdom from dragons...
+
+        \n\n\nThe Lost Kingdom\n\n
+        In a forgotten land, Princess Elena discovered ancient ruins that held the secret to...
+
+        \n\n\nThe Magic Forest\n\n
+        Deep in the enchanted woods, a young elf named Lira found a mysterious portal...
+    </string>
+</resources>
